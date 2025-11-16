@@ -47,8 +47,8 @@ We go through creating 2 different kinds of NFTs.
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-nft-cu
-cd foundry-nft-cu
+https://github.com/pochsid/NFT-collection.git
+cd NFT-collection
 forge install
 forge build
 ```
